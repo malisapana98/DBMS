@@ -1,0 +1,95 @@
+                 ******************************** Database Management System *************************************
+
+
+
+
+              * Introduction To DBMS :->
+
+                 A database management system is a software system designed to create and manage data in an organized manner. We will discuss DBMS, why we 
+
+            need it, applications, types, and characteristics. We will look at components, advantages, disadvantages, and limitations. 
+
+            We will also talk about the various database languages and database design.  
+
+
+
+
+
+           * Types of Database Management System 
+
+           1) Relational: 
+
+              Relational DBMS is the most popular DBMS. In big organizations, it works with large and structured data. 
+
+              It is based on a relational model that classifies the data into tables or relations. For example - Oracle and MySQL.  
+
+
+
+          2) Non Relational: 
+
+              Non-relational databases offer flexibility and scalability. Non-relational DBMS uses several 
+
+              data models to handle unstructured and real-time data scalability.   
+
+
+
+         3) Hierarchical: 
+
+            Hierarchical DBMS organizes data into a tree-like structure. A hierarchical DBMS is ideal for 
+
+            organizations with finite data access requirements. For example - Integrated Data Store (IDS) and IBM's Information Management System.  
+
+
+
+
+
+       4) Network: 
+
+  
+          Network DBMS stores data in a network model. A network DBMS is used in organizations with complex data relations.
+
+          For example - total information management system (TIMS). 
+
+
+
+
+       * Types of Database Languages
+
+        1) Data Manipulation Language (DML):->
+
+           (DML) in DBMS is a syntax. It is used to change, update, and retrieve the data stored in a database. It allows the users to 
+
+           interact with the DBMS efficiently. Some standard DML statements include Select, insert, update, and delete.
+
+
+
+       2) Data Definition Language (DDL):->
+
+          Data Definition Language (DDL) in DBMS is a syntax. It is used to describe the structure of database objects. It is required in DBMS as it helps
+
+          to store and efficiently manage data. Some standard DDL statements are Create Table, Alter table, Create index, and Create view.    
+
+
+
+
+        3) Data Control Language (DCL):->
+
+
+          Data Control Language (DCL) in DBMS is a syntax. It is used to ensure the security, accessibility, and integrity of data in a DBMS. It is a SQL
+ 
+          component that allows the database administrator to control access to the data. It ensures the protection of data from 
+
+          unauthorized access and modification.  
+
+
+
+       4) Transaction Control Language (TCL):->
+
+          Transaction control language (TCL) in DBMS is a set of commands. It is used to manage the transactions and control the changes in a 
+
+          database. TCL aims to ensure data integrity and consistency of the database. The standard TCL commands are - Commit, Rollback, and Savepoint.
+
+ 
+
+
+
